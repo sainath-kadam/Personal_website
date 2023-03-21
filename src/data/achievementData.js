@@ -18,7 +18,7 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : '5 star at Hackerrank',
+            title : '5 star at Hackerrank & 200+ DSA question on leetcode & hackerrank',
             details : 'C++ Language ',
             date : 'Jan  2021',
             field : 'Coding',
@@ -26,16 +26,16 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : ' Lead Web Development Club at IIITT',
-            details : 'Leading Web Development Club at IIITT',
+            title : ' Coordinator E-cell At IIIT',
+            details : 'Part of Team who Established E-Cell at IIIT & holding  position and leading E-cell for different Activities under it',
             date : ' 2021-Present',
-            field : 'Web Development',
+            field : 'E-Cell',
             image : ''
         },
         {
             id : 2,
-            title : ' Educational Youtube Channel(Gyan Dhara ) & Running Offline Councelling' ,
-            details : ' Running Educational Youtube Channel & Offline Councelling for College Students',
+            title : ' Educational Youtube Channel(Gyan Dhara ) & Running Offline counselling' ,
+            details : ' Running Educational Youtube Channel & Offline counselling for College Students',
             date : 'Apr 2020-present',
             field : 'Education',
             image : ''
