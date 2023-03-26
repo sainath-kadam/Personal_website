@@ -1,9 +1,9 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'indian institute of Information and Technology. TamilNadu',
-        course: 'Bachelor Of Engineering Electronics And Communication',
-        startYear: '2021',
+        institution: 'Indian Institute of Information and Technology,TamilNadu',
+        course: 'Bachelor Of Electronics And Communication',
+        startYear: '2020',
         endYear: 'Present'
     },
    

@@ -1,4 +1,20 @@
-// import one from '../assets/svg/projects/one.svg'
+import one from '../assets/svg/projects/one.jpg'
+import two from '../assets/svg/projects/two.jpg'
+import three from '../assets/svg/projects/three.jpg'
+import four from '../assets/svg/projects/four.jpg'
+import five from '../assets/svg/projects/five.jpg'
+import six from '../assets/svg/projects/six.jpg'
+import seven from '../assets/svg/projects/seven.jpg'
+import eight from '../assets/svg/projects/eight.jpg'
+import Nine from '../assets/svg/projects/Nine.jpg'
+import ten from '../assets/svg/projects/ten.jpg'
+import Eleven from '../assets/svg/projects/Eleven.jpg'
+import twel from '../assets/svg/projects/twel.jpg'
+import thirt from '../assets/svg/projects/thirt.jpg'
+import fourteen from '../assets/svg/projects/fourteen.jpg'
+import fifteen from '../assets/svg/projects/fifteen.jpg'
+
+
 
 
 
@@ -11,7 +27,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js','JWT', 'Redux'],
         code: 'https://github.com/sainath-kadam/Appoinment-of-Doctor',
         demo: '',
-        image: ''
+        image: two
     },
      {
         id:  2,
@@ -20,7 +36,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/Income_Expenditure_Saving',
         demo: '',
-        image: ''
+        image: Eleven
     },
      {
         id: 3,
@@ -29,7 +45,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/bookstore',
         demo: '',
-        image: ''
+        image: fourteen
     },
 
      {
@@ -39,7 +55,7 @@ export const projectsData = [
         tags: [ 'API','JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js' ],
         code: 'https://github.com/sainath-kadam/Movie_Review_sytem_MERN',
         demo: '',
-        image: ''
+        image: seven
     },
 
 
@@ -51,7 +67,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React', 'Vite','Telwind'],
         code: 'https://github.com/sainath-kadam/Gyan-Dhara_website-Counselling-website-',
         demo: '',
-        image: ''
+        image: thirt
     },
     {
         id:  6,
@@ -60,7 +76,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React'],
         code: 'https://github.com/sainath-kadam/Restaurant-_UI_React_Design-',
         demo: '',
-        image: ''
+        image: three
     },
     {
         id:  7,
@@ -69,7 +85,7 @@ export const projectsData = [
         tags: ['JSX', 'SCSS', 'Javascript','React',],
         code: 'https://github.com/sainath-kadam/Disney-Clone-UI',
         demo: '',
-        image: ''
+        image: Nine
     },
 
      {
@@ -88,7 +104,7 @@ export const projectsData = [
         tags: ['JSX', 'CSS', 'Javascript','React',],
         code: 'https://github.com/sainath-kadam/Movie_in_Hall',
         demo: '',
-        image: ''
+        image: six
     },
     
    
@@ -100,7 +116,7 @@ export const projectsData = [
         tags: ['React'],
         code: 'https://github.com/sainath-kadam/Snap',
         demo: '',
-        image: ''
+        image: one
     },
      {
         id:  11,
@@ -109,7 +125,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS'],
         code: 'https://github.com/sainath-kadam/git_profile',
         demo: '',
-        image: ''
+        image: twel
     },
     {
         id: 12,
@@ -118,7 +134,7 @@ export const projectsData = [
         tags: ['React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/Hospital',
         demo: '',
-        image: ''
+        image: fifteen
     },
  
     {
@@ -128,7 +144,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS','Django','Javascript'],
         code: 'https://github.com/sainath-kadam/Startup-Quirky',
         demo: '',
-        image: ''
+        image: ten
     },
     {
         id: 14,
@@ -137,7 +153,7 @@ export const projectsData = [
         tags: ['Django', 'HTML' ,'CSS', 'Javascript'],
         code: 'https://github.com/sainath-kadam/blog-version-2',
         demo: '',
-        image: ''
+        image: five
     },
     
     {
@@ -147,7 +163,7 @@ export const projectsData = [
         tags: ['React'],
         code: 'https://github.com/sainath-kadam/Calculator-',
         demo: '',
-        image: ''
+        image: four
     },
     {
         id: 16,
@@ -156,7 +172,7 @@ export const projectsData = [
         tags: ['HTML',"Css"],
         code: 'https://github.com/sainath-kadam/internship_project',
         demo: '',
-        image: ''
+        image: eight
     },
     
 

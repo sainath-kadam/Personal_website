@@ -7,6 +7,9 @@ import c5 from '../assets/jpg/c5.jpg'
 import c7 from '../assets/jpg/c7.jpg'
 import c8 from '../assets/jpg/c8.jpg'
 import c9 from '../assets/jpg/c9.jpg'
+import c10 from '../assets/jpg/c10.jpg'
+import c11 from '../assets/jpg/c11.jpg'
+import c12 from '../assets/jpg/c12.jpg'
 
 
 
@@ -22,7 +25,7 @@ export const achievementData = {
             details : 'C++ Language ',
             date : 'Jan  2021',
             field : 'Coding',
-            image : ''
+            image : c11
         },
         {
             id : 2,
@@ -30,7 +33,7 @@ export const achievementData = {
             details : 'Part of Team who Established E-Cell at IIIT & holding  position and leading E-cell for different Activities under it',
             date : ' 2021-Present',
             field : 'E-Cell',
-            image : ''
+            image : c12
         },
         {
             id : 2,
@@ -38,7 +41,7 @@ export const achievementData = {
             details : ' Running Educational Youtube Channel & Offline counselling for College Students',
             date : 'Apr 2020-present',
             field : 'Education',
-            image : ''
+            image : c10
         },
         {
             id : 3,
