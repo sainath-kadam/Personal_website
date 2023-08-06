@@ -24,11 +24,11 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 4,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 4,
+    //     title: 'Photography',
+    //     icon: <FaCameraRetro />
+    // },
    
     {
         id: 5,
@@ -38,11 +38,11 @@ export const servicesData = [
     
  
     
-    {
-        id: 6,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
+    // {
+    //     id: 6,
+    //     title: 'Blog Posting',
+    //     icon: <FaRegNewspaper />
+    // },
     {
         id: 7,
         title: 'Teaching',

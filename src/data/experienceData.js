@@ -1,14 +1,14 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Belgian Sport ',
+        company: 'Belgian Sport Organization',
         jobtitle: 'Frontend Developer ',
         startYear: 'feb 15,2023-present',
         endYear: ''
     },
     {
         id: 2,
-        company: 'at IIITT',
+        company: 'Indian Institute of Information Technology Tiruchirappalli ',
         jobtitle: 'Fullstack Developer',
         startYear: '2022-present',
         endYear: ''
