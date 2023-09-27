@@ -13,15 +13,17 @@ import twel from '../assets/svg/projects/twel.jpg'
 import thirt from '../assets/svg/projects/thirt.jpg'
 import fourteen from '../assets/svg/projects/fourteen.jpg'
 import fifteen from '../assets/svg/projects/fifteen.jpg'
+import sixteen from '../assets/svg/projects/sixteen.png'
+import ninten from '../assets/svg/projects/ninten.png'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Career-Ready: Empowering Placement Success',
-        projectDesc: 'Enhanced placement preparation website, intuitive UI, personalized 100+ questions, seamless video meeting integration. ',
+        projectName: 'AskTask: Help Within Reach ',
+        projectDesc: 'Empower campus communities with a secure platform, enhancing knowledge access by 30%. Facilitating a seamless transition between offline and online interactions, resulting in 20% enhancement in engagement ',
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js','JWT', 'Redux'],
         code: 'https://github.com/sainath-kadam',
-        demo: 'https://hack-horizons-iiitt.netlify.app/',
-        image: two
+        demo: 'https://asktask4u.netlify.app/',
+        image: sixteen
     },
 
      
@@ -31,7 +33,7 @@ export const projectsData = [
         projectDesc: 'Efficient website for financial tracking, facilitating users with 5+ features for income, expense, and savings management. ',
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/Income_Expenditure_Saving',
-        demo: 'https://drive.google.com/file/d/100oCtQJWEemTLvvEZlqtgnG884LvLBu5/view?usp=drivesdk',
+        demo: 'https://sainathkdmlocker.netlify.app/',
         image: Eleven
     },
     {
@@ -42,6 +44,15 @@ export const projectsData = [
         code: 'https://github.com/sainath-kadam/Gyan-Dhara_website-Counselling-website-',
         demo: 'https://gyan-dhara-counsellingcenter.netlify.app',
         image: thirt
+    },
+    {
+        id: 1,
+        projectName: 'Career-Ready: Empowering Placement Success',
+        projectDesc: 'Enhanced placement preparation website, intuitive UI, personalized 100+ questions, seamless video meeting integration. ',
+        tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js','JWT', 'Redux'],
+        code: 'https://github.com/sainath-kadam',
+        demo: 'https://hack-horizons-iiitt.netlify.app/',
+        image: ninten
     },
 
     {

@@ -1,6 +1,6 @@
 
 
-import two from '../assets/svg/projects/two.jpg'
+import thirt from '../assets/svg/projects/thirt.jpg'
 import five from '../assets/svg/projects/five.jpg'
 
 export const blogData = [
@@ -9,7 +9,7 @@ export const blogData = [
         title: 'Gyan Dhara ',
         description: 'A college counseling website provides students with valuable information and guidance on their higher education journey.  ',
         date: 'Jan 2021- Present',
-        image: two,
+        image: thirt,
         url: ''
     },
     {

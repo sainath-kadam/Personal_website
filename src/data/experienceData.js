@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Belgian Sport Organization',
+        company: 'Null Organization',
         jobtitle: 'Frontend Developer ',
         startYear: 'feb 15,2023-present',
         endYear: ''
