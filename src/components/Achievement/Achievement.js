@@ -47,5 +47,4 @@ function Achievement() {
     </>
   );
 }
-
 export default Achievement;

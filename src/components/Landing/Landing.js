@@ -15,7 +15,6 @@ import {
     FaYoutube,
     FaBlogger,
 } from 'react-icons/fa';
-
 function Landing() {
     const { theme, drawerOpen } = useContext(ThemeContext);
 

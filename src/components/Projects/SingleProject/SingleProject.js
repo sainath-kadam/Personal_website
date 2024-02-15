@@ -114,5 +114,4 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
         </Fade>
     );
 }
-
 export default SingleProject;

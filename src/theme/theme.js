@@ -2,8 +2,6 @@
 import {
     orangeThemeboy, orangeThemegirl,eduOrange,expOrange,contactsOrange
 } from './images'
-
-
 export const orangeThemeLight = {
     type: 'light',
     primary: '#f56539',

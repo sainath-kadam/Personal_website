@@ -11,7 +11,7 @@ import c10 from '../assets/jpg/c10.jpg'
 import c11 from '../assets/jpg/c11.jpg'
 import c12 from '../assets/jpg/c12.jpg'
 export const achievementData = {
-    bio :  "To live a creative life, we must lose our fear of being wrong.",
+    bio :  "To embrace a truly creative life, we must courageously relinquish our fear of being wrong. It's within these moments of uncertainty that innovation and true artistry flourish",
     achievements : [
         {
             id : 1,

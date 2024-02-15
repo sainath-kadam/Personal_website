@@ -1,16 +1,18 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Null Organization',
-        jobtitle: 'Frontend Developer ',
-        startYear: 'feb 15,2023-present',
+        company: 'AICAN Private Limited ',
+        jobtitle: 'FullStack Web Developer',
+        startYear: 'Nov 2023 - present',
+        dis:"",
         endYear: ''
     },
     {
         id: 2,
-        company: 'Indian Institute of Information Technology Tiruchirappalli ',
-        jobtitle: 'Fullstack Developer',
-        startYear: '2022-present',
+        company: 'Null Organization',
+        jobtitle: 'Frontend web Developer',
+        startYear: 'May 2023 - Jully 2023',
+        dis:"",
         endYear: ''
     },
     // {

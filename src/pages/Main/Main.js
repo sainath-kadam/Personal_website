@@ -9,15 +9,15 @@ function Main() {
             <Helmet>
                 <title>{headerData.name} - Portfolio</title>
             </Helmet>
-
             <Navbar />        
             <Landing />
             <About />
-            <Skills />
-            <Education />            
+            <Skills />           
             <Projects />
-            <Achievement />
             <Experience/>
+            <Education /> 
+            <Achievement />
+           
             <Blog />
             <Services/>
             {/* <Testimonials/> */}

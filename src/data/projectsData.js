@@ -15,7 +15,28 @@ import fourteen from '../assets/svg/projects/fourteen.jpg'
 import fifteen from '../assets/svg/projects/fifteen.jpg'
 import sixteen from '../assets/svg/projects/sixteen.png'
 import ninten from '../assets/svg/projects/ninten.png'
+import ninteen from '../assets/svg/projects/ninteen.jpg'
+import twenty from '../assets/svg/projects/twenty.jpg'
+import twenty1 from '../assets/svg/projects/twenty1.jpg'
 export const projectsData = [
+    {
+        id: 21,
+        projectName: 'HomeHub: Streamlined Property Management Solution',
+        projectDesc: 'Enabled image upload, edit, and delete functions, empowering users with enhanced control and experience management.Developed dynamic search functionality with customizable filters, enabling effortless property browsing experiences. Implemented robust user authentication, ensuring seamless and secure access to all HomeHub’s features for users ',
+        tags: ['Javascript','React', 'Express', 'MongoDB', 'Node.js','JWT', 'Redux-toolkit', 'Tailwind CSS', 'JWT', 'Firebase'],
+        code: 'https://github.com/sainath-kadam',
+        demo: 'https://kadam-estate.onrender.com/',
+        image: twenty1
+    },
+  {
+        id:  2,
+        projectName: 'Money-Minder: Simplified Financial Tracking',
+        projectDesc: 'Efficient website for financial tracking, facilitating users with 5+ features for income, expense, and savings management. ',
+        tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
+        code: 'https://github.com/sainath-kadam/Income_Expenditure_Saving',
+        demo: 'https://sainathkdmlocker.netlify.app/',
+        image: Eleven
+    },
     {
         id: 1,
         projectName: 'AskTask: Help Within Reach ',
@@ -24,17 +45,6 @@ export const projectsData = [
         code: 'https://github.com/sainath-kadam',
         demo: 'https://asktask4u.netlify.app/',
         image: sixteen
-    },
-
-     
-     {
-        id:  2,
-        projectName: 'Money-Minder: Simplified Financial Tracking',
-        projectDesc: 'Efficient website for financial tracking, facilitating users with 5+ features for income, expense, and savings management. ',
-        tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
-        code: 'https://github.com/sainath-kadam/Income_Expenditure_Saving',
-        demo: 'https://sainathkdmlocker.netlify.app/',
-        image: Eleven
     },
     {
         id:  5,
@@ -53,6 +63,33 @@ export const projectsData = [
         code: 'https://github.com/sainath-kadam',
         demo: 'https://hack-horizons-iiitt.netlify.app/',
         image: ninten
+    },
+    {
+        id:  6,
+        projectName: 'Restaurants UI',
+        projectDesc: 'This  Website is build for UI  designing purpose  ',
+        tags: ['JSX', 'CSS', 'Javascript','React'],
+        code: 'https://github.com/sainath-kadam/Restaurant-_UI_React_Design-',
+        demo: 'https://kadam-restaurant.netlify.app ',
+        image: three
+    },
+    {
+        id:  7,
+        projectName: 'Disney Plus UI',
+        projectDesc: 'build Disney Plus UI Clone and Deployed ',
+        tags: ['JSX', 'SCSS', 'Javascript','React',],
+        code: 'https://github.com/sainath-kadam/Disney-Clone-UI',
+        demo: 'https://disney-plus-ui-by-sai.netlify.app',
+        image: Nine
+    },
+    {
+        id: 17,
+        projectName: 'Add Product UI',
+        projectDesc: 'Build a website for adding product with best UI design with backend part',
+        tags: ['React',"Styelcomponents","Nodejs","Mongodb","Express"],
+        code: 'https://github.com/sainath-kadam/DevTown_Assigment',
+        demo: 'https://devtown-sainathkadam.netlify.app/',
+        image: ninteen
     },
 
     {
@@ -83,26 +120,7 @@ export const projectsData = [
         demo: '',
         image: seven
     },
-
-
-    {
-        id:  6,
-        projectName: 'Restaurants UI',
-        projectDesc: 'This  Website is build for UI  designing purpose  ',
-        tags: ['JSX', 'CSS', 'Javascript','React'],
-        code: 'https://github.com/sainath-kadam/Restaurant-_UI_React_Design-',
-        demo: 'https://kadam-restaurant.netlify.app ',
-        image: three
-    },
-    {
-        id:  7,
-        projectName: 'Disney Plus UI',
-        projectDesc: 'build Disney Plus UI Clone and Deployed ',
-        tags: ['JSX', 'SCSS', 'Javascript','React',],
-        code: 'https://github.com/sainath-kadam/Disney-Clone-UI',
-        demo: 'https://disney-plus-ui-by-sai.netlify.app',
-        image: Nine
-    },
+   
 
      {
         id: 8,
@@ -111,7 +129,7 @@ export const projectsData = [
         tags: ['React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/Login-Register-sysytem-MERN',
         demo: '',
-        image: ''
+        image: twenty
     },
      {
         id:  9,
@@ -127,7 +145,7 @@ export const projectsData = [
    
     {
         id: 10,
-        projectName: 'SnapShot ',
+        projectName: 'SnapShot',
         projectDesc: 'This project I have build using,React & fetched API',
         tags: ['React'],
         code: 'https://github.com/sainath-kadam/Snap',
@@ -190,8 +208,7 @@ export const projectsData = [
         demo: 'https://belgain-sport-360-view-sainath-kadam.netlify.app',
         image: eight
     },
-    
-
-   
+  
+       
 ]
 
