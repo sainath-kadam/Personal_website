@@ -16,7 +16,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Coding Profile',
-            details : 'Completed 400+ problems on LeetCode, demonstrating proficiency in algorithms and data structures.',
+            details : 'Completed 500+ problems on LeetCode, demonstrating proficiency in algorithms and data structures.',
             date : 'Jan  2021',
             field : 'Coding',
             image : c11

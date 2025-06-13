@@ -21,7 +21,7 @@ import twenty1 from '../assets/svg/projects/twenty1.jpg'
 export const projectsData = [
     {
         id: 21,
-        projectName: 'HomeHub: Streamlined Property Management Solution',
+        projectName: 'HomeVista: Streamlined Property Management Solution',
         projectDesc: 'Enabled image upload, edit, and delete functions, empowering users with enhanced control and experience management.Developed dynamic search functionality with customizable filters, enabling effortless property browsing experiences. Implemented robust user authentication, ensuring seamless and secure access to all HomeHub’s features for users ',
         tags: ['Javascript','React', 'Express', 'MongoDB', 'Node.js','JWT', 'Redux-toolkit', 'Tailwind CSS', 'JWT', 'Firebase'],
         code: 'https://github.com/sainath-kadam',
@@ -30,7 +30,7 @@ export const projectsData = [
     },
   {
         id:  2,
-        projectName: 'Money-Minder: Simplified Financial Tracking',
+        projectName: 'Money-Mind: Simplified Financial Tracking',
         projectDesc: 'Efficient website for financial tracking, facilitating users with 5+ features for income, expense, and savings management. ',
         tags: ['JSX', 'CSS', 'Javascript','React', 'Express', 'MongoDB', 'Node.js'],
         code: 'https://github.com/sainath-kadam/Income_Expenditure_Saving',

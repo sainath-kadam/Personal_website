@@ -3,8 +3,8 @@ import profile from '../assets/png/profile.png'
 
 export const headerData = {
     name: 'Sainath Kadam',
-    title: "Software Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
+    title: "",
+    desciption:"~Life is a journey, not a straight path — and neither is problem-solving. Embrace challenges, stay curious, and grow with every experience. This is your one chance to build something meaningful.",
     image: profile,
     resumePdf: resume
 }

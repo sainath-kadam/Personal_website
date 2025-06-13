@@ -1,23 +1,33 @@
- export const skillsData = [
-    'HTML',
-    'Javascript',
-    'CSS',
-    'React',
-    'Django',
-    'MongoDB',
-    'git',
-    'github',
-    'bootstrap',
-    'Data Structure',
-    'c++',
-    'c',
-    'Python',
-    'canva'
-    
-]
+export const skillsData = [
+  "Next JS",
+  "Node JS",
+  "JS",
+  "Typescript",
+  "Express",
+  "Firebase",
+  "Kafka",
+  "Redis",
+  "Bootstrap",
+  "Docker",
+  "HTML",
+  "ViteJS",
+  "Javascript",
+  "CSS",
+  "React",
+  "Django",
+  "MongoDB",
+  "MySQL",
+  "Git",
+  "Bootstrap",
+  "Data Structure",
+  "c++",
+  "c",
+  "Python",
+  "canva",
+  "Ubuntu",
+];
 
 // we can Choose our skills from below.
-
 
 // AVAILABLE SKILLS
 
